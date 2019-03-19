@@ -1,0 +1,7 @@
+D:\18.11.2336\Class and Object\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.csprojAssemblyReference.cache
+D:\18.11.2336\Class and Object\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.csproj.CoreCompileInputs.cache
+D:\18.11.2336\Class and Object\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.exe.config
+D:\18.11.2336\Class and Object\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.exe
+D:\18.11.2336\Class and Object\ClassAndObject\ClassAndObject\bin\Debug\ClassAndObject.pdb
+D:\18.11.2336\Class and Object\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.exe
+D:\18.11.2336\Class and Object\ClassAndObject\ClassAndObject\obj\Debug\ClassAndObject.pdb
